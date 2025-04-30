@@ -1,4 +1,4 @@
-module github.com/theimpostor/osc
+module github.com/junkblocker/osc
 
 go 1.23
 
