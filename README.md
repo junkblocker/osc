@@ -97,7 +97,7 @@ chmod a+x /usr/local/bin/osc
 ### Installing from Source
 
 ```bash
-go install -v github.com/theimpostor/osc@latest
+go install -v github.com/junkblocker/osc@latest
 ```
 
 This will install the latest version of osc to `$GOPATH/bin`. To find out where `$GOPATH` is, run `go env GOPATH`
